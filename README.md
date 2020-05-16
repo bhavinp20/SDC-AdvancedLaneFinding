@@ -115,6 +115,7 @@ This radius changes as we move along the curve.
 
 We can draw a circle that closely fits nearby points on a local section of a curve, as follows.
 ![alt text][image14]
+
 The radius of curvature at any point x of the function x=f(y) is given as follows:
 ![alt text][image15]
 ### Final Output
